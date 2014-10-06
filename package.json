@@ -11,5 +11,9 @@
     "url": "?.git"
   },
   "author": "Yaser",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-util": "~3.0.1",
+    "gulp": "~3.8.8"
+  }
 }
